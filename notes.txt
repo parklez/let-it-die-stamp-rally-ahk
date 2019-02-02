@@ -1,0 +1,5 @@
+A = Interaction for 100ms (holding down F)
+B = Interaction until frame before 3rd lit led: 2850ms for 0-10F
+C = Sum of B with (3rd lit red until perfect hit - 90ms)
+D....Z = difference between notes - 110ms  (counting for 100ms sleep for pressing enter)
+
